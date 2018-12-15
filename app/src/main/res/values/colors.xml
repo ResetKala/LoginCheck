@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="line">#e0e0e0</color>
+    <!--字体色-->
+    <color name="grey_light">#CCCCCC</color>
+    <color name="grey_deep">#666666</color>
+    <color name="grey_main">#999999</color>
+    <!-- 主题色 -->
+    <color name="blue_main">#0066FF</color>
+    <color name="blue_light">#00CCFF</color>
+    <color name="blue_deep">#0033FF</color>
+    <color name="blue_most">#0000FF</color>
+    <color name="blue_litter">#00FFFF</color>
+    <color name="black">#000000</color>
+
+</resources>

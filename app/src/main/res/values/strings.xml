@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginCheck</string>
+    <string name="account">请输入登录的手机号</string>
+    <string name="password">请输入登录密码</string>
+    <string name="login">登录</string>
+    <string name="loginPage">登录界面</string>
+    <string name="loginAfter">登录成功</string>
+    <string name="returnBack">返回登录界面</string>
+</resources>
